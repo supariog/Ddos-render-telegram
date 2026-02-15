@@ -1,4 +1,4 @@
-Zimport subprocess
+import subprocess
 import time
 import logging
 from aiogram import Bot
